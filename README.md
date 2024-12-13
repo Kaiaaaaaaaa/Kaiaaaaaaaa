@@ -7,7 +7,7 @@ I go by **Syila** online
 - 🤔 I’m looking for help with C# classes
 - 💬 Ask me about: Aviation ✈
 - 😁 Pronouns: She/Her
-- ⚡ Fun fact: Anomalocaris, they are neat
+- ⚡ Fun fact: Anomalocaris (they are neat)
 
 ---
 
