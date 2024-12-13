@@ -27,7 +27,8 @@ I go by **Syila** online
 
 <div align="center">
  <!-- <img valign="top" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Kaiaaaaaaaa&count_private=true&theme=transparent&hide_border=true&custom_title=Syila's%20Github%20stats" style="padding-riight:20px" />
-  <img alt="Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiaaaaaaaa&theme=transparent&hide_border=true" /> -->
+  <img alt="Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiaaaaaaaa&theme=transparent&hide_border=true" /> 
 </div>
 <div align="center">
 </div>
+-->
