@@ -4,7 +4,6 @@ I go by **Syila** online
 ## I'm an Architect - wannabe Developer!
 - 🕓 I am currently working on: **Probably rimworld mods and personal utils**!
 - 🎓 I'm a grasshopper specialist getting in to coding
-- 🤔 I’m looking for help with C# classes
 - 💬 Ask me about: Aviation ✈
 - 😁 Pronouns: She/Her
 - ⚡ Fun fact: Anomalocaris (they are neat)
